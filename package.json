@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "2.5.11"
+    "express": "2.5.11",
+    "ejs": "0.7.2"
   },
   "author": "Sarah Pitts",
   "license": "BSD"
